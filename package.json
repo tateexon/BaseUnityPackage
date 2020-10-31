@@ -1,0 +1,14 @@
+{
+  "name": "com.craztad.baseunitypackage",
+  "version": "1.0.0",
+  "displayName": "Base Unity Package",
+  "unity": "2020.4",
+  "keywords": [],
+  "author": {
+    "name": "a",
+    "email": "craztad@gmail.com",
+    "url": "https://github.com/tateexon/"
+  },
+  "type": "library",
+  "description": "Provides a wrapper around the new input system for quick usage of basic inputs"
+}
