@@ -1,0 +1,1 @@
+Game scripts go in this directory
